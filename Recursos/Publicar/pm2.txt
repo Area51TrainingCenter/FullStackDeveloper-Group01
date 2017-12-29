@@ -1,0 +1,18 @@
+Trabajando en su propio servidor
+
+opciones de pm2: start, stop, restart, list, show, save, logs
+
+1. npm install pm2 -g
+
+2. pm2 start app.js -n <<nombre app>> -x -- --prod
+   (tienen que estar dentro de la carpeta)
+
+3. pm2 save
+
+4. pm2 list
+
+5. pm2 show <<nombre app>>
+
+6. pm2 logs
+
+

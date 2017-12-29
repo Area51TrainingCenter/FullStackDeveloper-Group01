@@ -1,0 +1,12 @@
+1. npm i firebase-tools -g
+
+2. Entrar a la carpeta del proyecto y mover los archivos a una carpeta "public"
+
+3. El archivo principal debe llamarse "index.html"
+
+4. firebase login
+
+5. firebase init
+
+6. firebase deploy
+

@@ -1,0 +1,28 @@
+1. Crear un cueenta en Heroku
+
+2. Descargar el cliente de Heroku (heroku-cli). La opción aparece cuando se crea una app.
+
+3. Loguearse con "heroku login".
+
+4. Clonar el repositorio remoto creado por Heroku:
+	"heroku git:clone -a socket01-a51"
+
+	Lo de "socket01-a51" tendrán que cambiarlo por el nombre que le hayan puesto a su app.
+
+5. Ir a la carpeta que se creó cuando clonaron en el paso 4 (tiene el nombre de su proyecto).
+
+6. Ejecutar los siguientes comandos de git para preparar los archivos a publicar:
+	git add .
+	git commit -am "el mensaje que quieran poner"
+
+7. Desplegar (deploy) con el siguiente comando:
+	git push heroku master  (no olviden que deben estar dentro de la carpeta del proyecto)
+
+8. Cuando termine de desplegar, Heroku les mostrará la url desde la cual podrán ver su proyecto.
+
+9. Si sucede algún error luego de desplegar, lo pueden revisar usando el siguient comando:
+	heroku logs
+
+3. Crear un repositorio local con "git init". Tienen que tener algún cliente de git instalado previamente.
+
+4. 
