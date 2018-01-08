@@ -5,3 +5,6 @@
 3. [Aplicaciones de ejemplo de uso de JavaScript: Batería y Reloj](https://github.com/Area51TrainingCenter/FullStackDeveloper-Group01/tree/master/JavaScript/Clase03)
 4. [Uso de setInterval, Math, Evento "transitionEnd", JSON y Desestructuración JSON](https://github.com/Area51TrainingCenter/FullStackDeveloper-Group01/tree/master/JavaScript/Clase04)
 5. [Variables CSS, el método "Reduce", Componentes, el XMLHttpRequest y las Promesas](https://github.com/Area51TrainingCenter/FullStackDeveloper-Group01/tree/master/JavaScript/Clase05)
+6. [API Rest usando XMLHttpRequest, Promesas y Fetch](https://github.com/Area51TrainingCenter/FullStackDeveloper-Group01/tree/master/JavaScript/Clase06)
+7. [Clases, Herencias, Generadores y Proxies](https://github.com/Area51TrainingCenter/FullStackDeveloper-Group01/tree/master/JavaScript/Clase07)
+8. [Funciones autoinvocadas, eventos de carga y firebase](https://github.com/Area51TrainingCenter/FullStackDeveloper-Group01/tree/master/JavaScript/Clase08)
